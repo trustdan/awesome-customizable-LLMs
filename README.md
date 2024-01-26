@@ -5,8 +5,6 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 # My little list about how to make your own customized Large Language Models
 
-# Large Language Model Tools to aid you in your journey
-
 # Phind.com
 - [Customize what websites Phind prioritizes](https://www.phind.com/profile)
 - [Filters](https://www.phind.com/filters)
